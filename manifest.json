@@ -1,7 +1,7 @@
 {
 	"name": "BetterSpectate",
 	"description": "Adds spectate UI until the devs update the game.",
-	"version_number": "1.0.0",
+	"version_number": "1.0.1",
 	"dependencies": ["BepInEx-BepInExPack-5.4.2100"],
-	"website_url": "https://github.com"
+	"website_url": "https://github.com/funtime-foxy1/BetterSpectate"
 }
