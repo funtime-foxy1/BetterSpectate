@@ -1,4 +1,5 @@
 # BetterSpectate
+![image](https://github.com/funtime-foxy1/BetterSpectate/assets/70809736/869fdbb3-7fce-42bd-9dd6-838bad3e3517)
 Adds spectate GUI for better viewing purposes.
 Project files: https://github.com/funtime-foxy1/BetterSpectate/tree/master
 
